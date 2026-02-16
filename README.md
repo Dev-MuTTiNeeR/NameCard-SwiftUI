@@ -3,4 +3,4 @@
 My very first SwiftUI project! Following Angela Yu's iOS Bootcamp.
 Demonstrates usage of `ZStack`, `VStack`, `Image`, `Text` and `Divider`.
 
-<img src="https://github.com/user-attachments/assets/d1b4829b-04a8-499c-9940-bb5e6d7d17e0" width="250">
+<img src="https://github.com/user-attachments/assets/5458a5be-8aea-4578-b5ac-2f7cc961b719" width="250">
